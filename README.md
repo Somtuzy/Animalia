@@ -1,6 +1,8 @@
 # Animalia
 
-The images attached shows a simple classification of the kingdom Animalia into six different classes taking the presence or absence of some attributes into consideration.
+The first image <IMAGE 1> attached presents us with a simple classification problem a University has. They want to adopt a newer programming language in classifying the kingdom Animalia into subclasses.
+ 
+The second image <IMAGE 2> attached shows a simple guideline or outline on how they want the classification done; the kingdom Animalia was classified into six different classes taking the presence or absence of some attributes into consideration and as an extra basis for classification.
 
 These attributes are whether an animal
 • Has a backbone.
@@ -24,11 +26,11 @@ CLASSIFICATIONS & ATTRIBUTES
 6. Cat is class Mammal - it is warm blooded, has a backbone and has four legs for walking.
 
 
-These classes were coded using the four principles of Javascript. These four principles are:
+These classes are to be coded using the four principles of Javascript as pointed out in the third image <IMAGE 3>. These four principles are:
 
 • Encapsulation
 • Abstraction
 • Inheritance
 • Polymorphism.
 
-NB: Please look at attached images for reference and read my comments on code lines to see where each principle was applied.
+NB: Please look at attached images for reference and read my comments on code lines to see why and where each principle was applied.
